@@ -43,7 +43,7 @@
     "react-fast-compare": "^3.0.0"
   },
   "peerDependencies": {
-    "algoliasearch": ">= 3.1 < 5",
+    "algoliasearch": "4.10.5",
     "react": ">= 16.3.0 < 19"
   },
   "gitHead": "f4acbc0c1106a4fd7c7ad95a3e02de4fdac1ad27"
